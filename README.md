@@ -16,12 +16,12 @@ The project focuses on analyzing historical data to create key metrics and visua
 
 ### Metrics Development
 
-- Created **27 key performance indicators (KPIs)** using DAX, including:
+- Created **26 key performance indicators (KPIs)** using DAX, including:
   - **RevPAR** (Revenue per Available Room)
   - **Occupancy %**
   - **ADR** (Average Daily Rate)
   - **Realization %**
-  - **DSRN**, **DBRN**, **DURN** (Day, Double, and Duration Room Nights)
+  - **DSRN**, **DBRN**, **DURN** (Daily Booked Room Night, Daily Sellable Room Nights, Daily Utilized Room Nights)
   - **Cancellation %**
   - **Average Rating**
 
