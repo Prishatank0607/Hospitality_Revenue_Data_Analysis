@@ -6,7 +6,6 @@
 
 The project focuses on analyzing historical data to create key metrics and visualizations that help the revenue management team improve decision-making and regain market share.
 
----
 
 ## Features
 
@@ -47,7 +46,6 @@ The project focuses on analyzing historical data to create key metrics and visua
   - **Performance comparison between weekend and weekday bookings**.
   - **Cancellation rate impact** on overall revenue.
 
----
 
 ## How to Use
 
@@ -57,20 +55,17 @@ The project focuses on analyzing historical data to create key metrics and visua
    - Analyzing revenue by specific months or weeks.
    - Drilling down into weekend vs. weekday performance.
 
----
 
 ## Dependencies
 
 - **Power BI**
 - **DAX** for measure creation
 
----
 
 ## Dataset Source
 
 The dataset used in this project was obtained from **CodeBasics**, a well-known platform for data science competitions and datasets.
 
----
 
 ## Contributing
 
